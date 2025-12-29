@@ -28,7 +28,7 @@
 
 #### ⚙️ Backend & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
-<img width="600" height="315" alt="103466606-760a4000-4d14-11eb-9941-2f3d00371471" src="https://github.com/user-attachments/assets/8df3ba47-fd2f-4b00-9714-da69c0277304" />
+<img width="387" height="130" alt="images" src="https://github.com/user-attachments/assets/d10565a4-9d7f-4e40-a9ba-9dbf42538cdc" />
 ![Microservices](https://img.shields.io/badge/Microservices-0A0A0A?style=for-the-badge&logo=cloud&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
