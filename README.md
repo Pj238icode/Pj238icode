@@ -30,6 +30,7 @@
 [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
 <img width="100" height="100" alt="103466606-760a4000-4d14-11eb-9941-2f3d00371471" src="https://github.com/user-attachments/assets/75612fd3-d17c-42d3-b6a6-b2793f176949" />
 [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 
 
