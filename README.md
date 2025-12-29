@@ -35,9 +35,8 @@
 ---
 
 #### 🗄️ Databases & Messaging
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,rabbitmq)](https://skillicons.dev)
+
 
 ---
 
