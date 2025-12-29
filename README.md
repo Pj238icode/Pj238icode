@@ -32,6 +32,7 @@
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
 
+
 ---
 
 #### 🗄️ Databases & Messaging
@@ -47,6 +48,6 @@
 ---
 
 #### 🧰 Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws,netlify,idea,vscode)](https://skillicons.dev)
 
 
