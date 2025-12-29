@@ -50,6 +50,6 @@
 ---
 
 #### 🧰 Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws,netlify,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws,netlify,idea,pycharm,vscode)](https://skillicons.dev)
 
 
